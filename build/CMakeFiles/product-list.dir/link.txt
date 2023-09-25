@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/product-list.dir/main.cpp.o" "CMakeFiles/product-list.dir/product.cpp.o" "CMakeFiles/product-list.dir/list.cpp.o" "CMakeFiles/product-list.dir/date.cpp.o" -o build/product-list 
